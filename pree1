@@ -1,0 +1,7 @@
+Action	Description
+Modified	File is changed in working directory
+Staged	File is added to index using git add
+Committed	Staged changes are saved to repo with commit
+
+
+Staged	File is added to index using git add
